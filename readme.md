@@ -42,3 +42,6 @@ Git - это одна из реализаций распределённых с�
 >about git and during this lection we assume that cvs is crap.
 >Those who don't agree are stupid and ugly by definition..."
 
+Картинка гита:
+
+![Альтернативный текст](https://rsdn.org/article/tools/Git-Pics/03000014.png)
