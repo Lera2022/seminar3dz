@@ -36,3 +36,9 @@ Git - это одна из реализаций распределённых с�
 Для удаления ветки ввести команду "git branch -d 'name branch'"
 
 Ещё одна инструкция про гит доступна по [ссылке](https://proglib.io/p/git-for-half-an-hour "Инструкция по гиту")
+
+Цитата про гит: 
+>...I know many ppl successfully use cvs but this lection is
+>about git and during this lection we assume that cvs is crap.
+>Those who don't agree are stupid and ugly by definition..."
+
